@@ -1,8 +1,14 @@
 // frontend/src/apiConfig.js
-const envUrl = import.meta.env.VITE_API_BASE_URL || 'https://sih26108-bis-engine.onrender.com';
+let rawUrl = import.meta.env.VITE_API_BASE_URL || "https://sih26108-bis-engine.onrender.com";
 
-// Strip any accidental brackets, quotes, spaces, or trailing slashes
-export const API_BASE = String(envUrl)
-  .replace(/[\[\]"']/g, '')
+// If markdown link format like [text](https://...), extract URL
+const mdMatch = String(rawUrl).match(/\((https?:\/\/[^\s\)]+)\)/);
+if (mdMatch) {
+  rawUrl = mdMatch[1];
+}
+
+// Strip any accidental brackets, parentheses, quotes, spaces, or trailing slashes
+export const API_BASE = String(rawUrl)
+  .replace(/[\[\]\(\)"']/g, '')
   .trim()
   .replace(/\/+$/, '');
