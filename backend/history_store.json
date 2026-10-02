@@ -1,0 +1,1395 @@
+[
+  {
+    "id": 2,
+    "query_snippet": "TENDER DOCUMENT\n Procurement of Industrial Safety Helmets\nTender Reference No.\nISH/PROC/2026/017\nIssuing Organ...",
+    "full_text": "TENDER DOCUMENT\n Procurement of Industrial Safety Helmets\nTender Reference No.\nISH/PROC/2026/017\nIssuing Organization\nABC Industrial Manufacturing Corporation Ltd.\nTender Type\nOpen Tender\nDelivery Location\nHyderabad, Telangana\nQuantity\n500 Nos.\nDelivery Period\n45 Days from Purchase Order\nBid Validity\n90 Days\n1. Introduction\nABC Industrial Manufacturing Corporation Ltd. invites bids from eligible manufacturers, authorized distributors, and suppliers\nfor 500 industrial safety helmets for use in manufacturing plants, warehouses, construction areas, and maintenance zones.\n2. Scope of Supply\n\u007f\n500 industrial safety helmets\n\u007f\nAdjustable internal suspension/harness system\n\u007f\nCompatible adjustable chin strap\n\u007f\nTechnical datasheet, test/certification documents, and warranty information\n3. Technical Specifications\n Parameter\nRequirement\nProduct\nIndustrial Safety Helmet\nApplication\nIndustrial, manufacturing, construction and maintenance\nShell\nHigh-impact thermoplastic such as HDPE/ABS or equivalent\nProtection\nMechanical impact and falling objects\nSuspension\nAdjustable internal suspension system\nSize\nAdjustable for different head sizes\nChin Strap\nCompatible and adjustable\nColour\nYellow or equivalent high-visibility colour\nCondition\nNew and unused\n4. Safety Requirements\nThe helmet shall provide impact and falling-object protection, adequate shock absorption, a secure adjustable suspension\nsystem, and no sharp edges or projections. It shall comply with the applicable Indian Standard for industrial protective helmets.\n5. Standards and Compliance\nThe bidder shall identify the applicable Indian Standard(s) and submit conformity/certification details, test reports where\napplicable, manufacturer information, product model, technical datasheet, and any mandatory certification details.\n6. Quality Requirements\nHelmets shall be free from visible defects, properly packaged, and carry required manufacturer, model, batch, or other\nidentification markings. Products must be traceable to the manufacturer and model.\n7. Documents Required\nManufacturer authorization where applicable, technical datasheet/catalogue, Indian Standard compliance declaration, test\ncertificates, manufacturer details, warranty details, and relevant supply experience.\n8. Inspection and Acceptance\nThe purchaser may inspect the helmets before or after delivery. Acceptance will consider quantity, specifications, physical\ncondition, markings, documentation, and applicable standard compliance.\n\n9. Warranty\nMinimum 12-month warranty from delivery against manufacturing defects. Damage from improper use, unauthorized\nmodification, or misuse is excluded.\n10. Delivery and Packaging\nDeliver 500 helmets to the designated Hyderabad warehouse. Packaging shall protect products during transport and show\nproduct, model, quantity, supplier/manufacturer, and batch information where applicable.\n11. Evaluation Criteria\nTechnical evaluation will consider specification compliance, applicable Indian Standards, certification/test reports,\ndocumentation, traceability, warranty, and relevant experience. Commercial evaluation will be conducted separately.\n12. Bidder Compliance Statement\n Tender Requirement\nBidder Specification\nYes/No\nIndustrial safety helmet\nImpact / falling-object protection\nAdjustable suspension\nChin strap compatibility\nApplicable Indian Standard\nTest certificate\nManufacturer identification\n12-month warranty\n13. Prototype Testing Objective\nThis sample tender is intended to test an AI-based Indian Standards recommendation system. The system should extract the\nproduct, quantity, intended use, technical and safety requirements, then recommend applicable Indian Standard(s) with an\nexplanation of the match.",
+    "language": "en",
+    "primary_standard": "IS 2925:1984",
+    "standards_count": 5,
+    "extracted_parameters": {
+      "product": "Industrial Safety Helmet",
+      "category": "Occupational PPE",
+      "quantity": "2026",
+      "power": null,
+      "voltage": null,
+      "ip_rating": null,
+      "materials": [
+        "HDPE",
+        "ABS"
+      ],
+      "protections_demanded": [
+        "Impact & Shock Absorption"
+      ],
+      "applications": [
+        "Construction & Civil Infrastructure",
+        "Industrial & Factory Floor Operations"
+      ]
+    },
+    "audit_report": {
+      "status": "COMPLIANT",
+      "issues_count": 0,
+      "primary_standard": "IS 2925:1984",
+      "findings": []
+    },
+    "recommendations": [
+      {
+        "standard": {
+          "is_code": "IS 2925:1984",
+          "title": "Specification for Industrial Safety Helmets",
+          "category": "Occupational PPE",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Second Revision (Edition 2.3)",
+          "publication_year": 1984,
+          "reaffirmation_date": "Reaffirmed 2020",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 1987,
+              "notes": "Prescribes reinforced chin strap retention, harness anchoring, and updated crown impact deflection test (transmitted force <= 5.0 kN)."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2002,
+              "notes": "Mandates 2000V AC dielectric leakage current breakdown resistance (< 3.0 mA) for Class B electrical hazard protection."
+            },
+            {
+              "amendment_no": "Amd 3",
+              "year": 2018,
+              "notes": "Harmonized with Personal Protective Equipment (QCO) statutory conformity certification protocol."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Personal Protective Equipment (QCO)",
+            "regulatory_authority": "Bureau of Indian Standards",
+            "gazette_reference": "Gazette of India S.O. 4235(E) / DPIIT Quality Control Order",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Personal Protective Equipment (QCO). Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Personal Protective Equipment (QCO)",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India S.O. 4235(E) / DPIIT Quality Control Order"
+          },
+          "primary_standard": {
+            "is_code": "IS 2925:1984",
+            "role": "Primary Product Manufacturing Specification",
+            "description": "Core product manufacturing standard defining shell material (HDPE/ABS), crown shock absorption, penetration resistance, flame retardance, and 2000V electrical breakdown tests for industrial safety helmets."
+          },
+          "scope": "Defines crown deflection thresholds, vertical puncture resistance, shell flammability, and high-voltage electrical breakdown tests for industrial hard hats.",
+          "products_covered": [
+            "Specification for Industrial Safety Helmets"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 2925 (Cl 8.1)",
+                "title": "Crown Shock Absorption Test",
+                "description": "5 kg hemispherical steel striker drop test measuring peak transmitted force (limit <= 5.0 kN)."
+              },
+              {
+                "is_code": "IS 2925 (Cl 8.2)",
+                "title": "Vertical Penetration Test",
+                "description": "3 kg conical steel spike drop from 1 meter without breaching shell harness depth clearance."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 2925 (Cl 8.4)",
+                "title": "Dielectric Electrical Breakdown Test",
+                "description": "2000V AC dielectric leakage current verification (< 3.0 mA) for occupational electrical flashover protection."
+              },
+              {
+                "is_code": "IS 2925 (Cl 8.3)",
+                "title": "Flammability & Thermal Endurance",
+                "description": "Burner flame exposure test requiring self-extinguishing shell behavior within 5 seconds."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 8807:2019",
+                "title": "Guide for Selection, Industrial Use and Maintenance of PPE",
+                "description": "Workplace deployment protocol, harness sizing, harness replacement intervals, and inspection guidelines."
+              },
+              {
+                "is_code": "IS 3786:2022",
+                "title": "Industrial Accident Reporting & Safety Norms",
+                "description": "Occupational head injury monitoring and factory safety compliance recordkeeping."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "IS 4151:2015",
+                "title": "Protective Helmets for Two-Wheeled Motor Vehicle Riders",
+                "description": "Vehicular crash-helmet standard with EPS liner (distinct from industrial hard hats; not interchangeable)."
+              },
+              {
+                "is_code": "IS 15298 (Part 2):2016",
+                "title": "Personal Protective Equipment - Safety Footwear",
+                "description": "Associated industrial worker PPE standard with 200J steel toe impact protection."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Personal Protective Equipment (QCO)",
+              "description": "Statutory regulatory order: Gazette of India S.O. 4235(E) / DPIIT Quality Control Order"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Occupational PPE"
+            ],
+            "key_specs": [
+              "Defines",
+              "crown",
+              "deflection",
+              "thresholds,"
+            ]
+          }
+        },
+        "ai_relevance_score": 50.1,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India S.O. 4235(E) / DPIIT Quality Control Order",
+        "edition_info": {
+          "edition": "Second Revision (Edition 2.3)",
+          "publication_year": 1984,
+          "reaffirmation_date": "Reaffirmed 2020",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 1987,
+              "notes": "Prescribes reinforced chin strap retention, harness anchoring, and updated crown impact deflection test (transmitted force <= 5.0 kN)."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2002,
+              "notes": "Mandates 2000V AC dielectric leakage current breakdown resistance (< 3.0 mA) for Class B electrical hazard protection."
+            },
+            {
+              "amendment_no": "Amd 3",
+              "year": 2018,
+              "notes": "Harmonized with Personal Protective Equipment (QCO) statutory conformity certification protocol."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Primary Standard for Occupational Head Protection: Specifically governs hard hats against falling objects and mechanical impact on site.",
+          "\u2713 Electrical Insulation Match: Cites Class B mandatory dielectric proof test up to 2000V AC leakage <= 3 mA.",
+          "\u2713 Industrial Workplace Match: Mandated for factory floor operations and engineering shop-floors under Factories Act norms."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 4151:2015",
+          "title": "Protective Helmets for Riders of Two-Wheeled Motor Vehicles",
+          "category": "Automotive Safety",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Fourth Revision (Edition 4.1)",
+          "publication_year": 2015,
+          "reaffirmation_date": "Reaffirmed 2021",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2018,
+              "notes": "Restricts maximum helmet weight to 1.2 kg and enforces peripheral vision clearance > 105 degrees under CMVR."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2020,
+              "notes": "Mandates multi-point ambient, cold, and wet impact attenuation testing on flat and kerbstone anvils."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Ministry of Road Transport and Highways (MoRTH)",
+            "regulatory_authority": "Ministry of Road Transport & Highways",
+            "gazette_reference": "Gazette of India S.O. 506(E) / MoRTH under Central Motor Vehicles Rules (CMVR)",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Ministry of Road Transport and Highways (MoRTH). Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Ministry of Road Transport and Highways (MoRTH)",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India S.O. 506(E) / MoRTH under Central Motor Vehicles Rules (CMVR)"
+          },
+          "primary_standard": {
+            "is_code": "IS 4151:2015",
+            "role": "Primary Product Manufacturing Specification",
+            "description": "Manufacturing standard for rider crash helmets specifying EPS energy absorbing liner, outer composite/thermoplastic shell, chin strap retention tensile resistance, and visor optical clarity."
+          },
+          "scope": "Impact absorption attenuation tests, chin strap retention tensile resistance, visor optical clarity, and peripheral field-of-vision clearances.",
+          "products_covered": [
+            "Protective Helmets for Riders of Two-Wheeled Motor Vehicles"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 4151 (Annex B)",
+                "title": "Dynamic Impact Attenuation Test",
+                "description": "Drop tower impact simulation recording peak headform deceleration (must not exceed 300g)."
+              },
+              {
+                "is_code": "IS 4151 (Annex C)",
+                "title": "Retention System Dynamic Tensile Test",
+                "description": "Tensile elongation test on chin strap assembly measuring dynamic displacement under shock load."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "CMVR Rule 138",
+                "title": "Central Motor Vehicles Wearing Mandate",
+                "description": "Statutory rule requiring all two-wheeler riders to wear BIS-certified ISI marked protective helmets."
+              },
+              {
+                "is_code": "IS 4151 (Cl 9.2)",
+                "title": "Visor Optical & Shatter Safety",
+                "description": "Luminous transmittance (> 85% for clear visors) and high-velocity pellet shatter resistance."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 4151 (Cl 10)",
+                "title": "User Sizing, Fitting & Replacement Code",
+                "description": "Prescribes retention strap latching, helmet replacement following severe collision impact, and care instructions."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "IS 2925:1984",
+                "title": "Specification for Industrial Safety Helmets",
+                "description": "Industrial hard hat for falling object protection (strictly prohibited for road transit use)."
+              },
+              {
+                "is_code": "IS 2553 (Part 2):2019",
+                "title": "Safety Glass: Road Transport",
+                "description": "Automotive laminated/tempered safety glass for vehicular windshields and visors."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Ministry of Road Transport and Highways (MoRTH)",
+              "description": "Statutory regulatory order: Gazette of India S.O. 506(E) / MoRTH under Central Motor Vehicles Rules (CMVR)"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Automotive Safety"
+            ],
+            "key_specs": [
+              "Impact",
+              "absorption",
+              "attenuation",
+              "tests,"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India S.O. 506(E) / MoRTH under Central Motor Vehicles Rules (CMVR)",
+        "edition_info": {
+          "edition": "Fourth Revision (Edition 4.1)",
+          "publication_year": 2015,
+          "reaffirmation_date": "Reaffirmed 2021",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2018,
+              "notes": "Restricts maximum helmet weight to 1.2 kg and enforces peripheral vision clearance > 105 degrees under CMVR."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2020,
+              "notes": "Mandates multi-point ambient, cold, and wet impact attenuation testing on flat and kerbstone anvils."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Primary Automotive Safety Standard: Governs protective helmets designed specifically for riders of two-wheeled motor vehicles.",
+          "\u2713 High-Velocity Vehicular Crash Attenuation: Focuses on dynamic road accident impact mitigation, retention chin-straps, and optical visor clarity.",
+          "\u26a0\ufe0f Domain Distinction: Scored lower for industrial use; IS 4151 applies to vehicular transport rather than occupational falling-debris hazards."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 15298 (Part 2):2016",
+          "title": "Personal Protective Equipment - Safety Footwear",
+          "category": "Occupational PPE",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Second Revision (Edition 2.1)",
+          "publication_year": 2016,
+          "reaffirmation_date": "Reaffirmed 2021",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2019,
+              "notes": "Mandates mandatory 200J steel toe-cap kinetic impact test and 15 kN compression resistance."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2021,
+              "notes": "Enforces non-slip SRC rating on ceramic tile and stainless steel lubricated test surfaces."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Footwear (Quality Control) Order",
+            "regulatory_authority": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "gazette_reference": "Gazette of India S.O. 3857(E) / Footwear (Quality Control) Order",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Footwear (Quality Control) Order. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Footwear (Quality Control) Order",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India S.O. 3857(E) / Footwear (Quality Control) Order"
+          },
+          "primary_standard": {
+            "is_code": "IS 15298 (Part 2):2016",
+            "role": "Primary Product Manufacturing Specification",
+            "description": "Manufacturing standard for occupational safety footwear specifying 200J toe impact resistance, puncture-resistant midsoles (1100 N), fuel-oil resistant soles, and antistatic electrical properties."
+          },
+          "scope": "Steel toe-cap 200J kinetic impact resistance, puncture-resistant sole inserts, hydrocarbon fuel resistance, and wet-surface anti-slip grading.",
+          "products_covered": [
+            "Personal Protective Equipment"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 15298 (Part 1)",
+                "title": "Test Methods for Footwear",
+                "description": "Toe impact drop tower testing (200 Joules) and sole flex cracking endurance."
+              },
+              {
+                "is_code": "IS 15298 (Cl 5.4)",
+                "title": "Penetration Resistance of Sole Insert",
+                "description": "Nail puncture resistance testing requiring minimum 1100 N puncture force."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 15298 (Cl 6.2)",
+                "title": "Antistatic & Electrical Resistance",
+                "description": "Electrical resistance bounds (100 kOhm to 1000 MOhm) to prevent electrostatic spark hazards."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 8807:2019",
+                "title": "Guide for Selection & Maintenance of Industrial PPE",
+                "description": "Workplace PPE sizing, fitting protocols, replacement schedule, and sole wear limits."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "IS 2925:1984",
+                "title": "Specification for Industrial Safety Helmets",
+                "description": "Industrial hard hat for falling object protection (allied worker PPE)."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Footwear (Quality Control) Order",
+              "description": "Statutory regulatory order: Gazette of India S.O. 3857(E) / Footwear (Quality Control) Order"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Occupational PPE"
+            ],
+            "key_specs": [
+              "Steel",
+              "toe-cap",
+              "200J",
+              "kinetic"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India S.O. 3857(E) / Footwear (Quality Control) Order",
+        "edition_info": {
+          "edition": "Second Revision (Edition 2.1)",
+          "publication_year": 2016,
+          "reaffirmation_date": "Reaffirmed 2021",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2019,
+              "notes": "Mandates mandatory 200J steel toe-cap kinetic impact test and 15 kN compression resistance."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2021,
+              "notes": "Enforces non-slip SRC rating on ceramic tile and stainless steel lubricated test surfaces."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Occupational PPE.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Personal Protective Equipment - Safety Footwear."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 17334:2019",
+          "title": "Medical Textiles - Surgical Gowns and Surgical Drapes",
+          "category": "Medical Equipment",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Published 2019 (Current Revision)",
+          "publication_year": 2019,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2022,
+              "notes": "Statutory alignment with national quality standards and Medical Textiles (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2025,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Medical Textiles (Quality Control) Order",
+            "regulatory_authority": "Bureau of Indian Standards",
+            "gazette_reference": "Gazette of India / Medical Textiles (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Medical Textiles (Quality Control) Order. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Medical Textiles (Quality Control) Order",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India / Medical Textiles (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+          },
+          "primary_standard": {
+            "is_code": "IS 17334:2019",
+            "role": "Primary Code of Practice",
+            "description": "Core manufacturing and specification standard governing Medical Textiles, outlining material, mechanical, and operational quality requirements."
+          },
+          "scope": "Hydrostatic head water resistance, linting (particle release) reduction, tensile seam strength, and viral penetration barriers for operating theatre textiles.",
+          "products_covered": [
+            "Medical Textiles"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 17334 (Testing Cl.)",
+                "title": "Laboratory Test Protocols for Medical Textiles",
+                "description": "Standard sampling procedures, tolerance verification, and precision lab test methods."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 17334 (Safety Cl.)",
+                "title": "Safety & Hazard Prevention Specifications",
+                "description": "Statutory safety thresholds, failure prevention limits, and operational protection parameters."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732 / IS 456 (General Practice)",
+                "title": "Standard Practice for Deployment & Maintenance",
+                "description": "Authorized engineering guidelines for deployment, periodic field inspection, and maintenance."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "BIS Technical Schedule",
+                "title": "Complementary Specifications in Medical Equipment",
+                "description": "Harmonized component benchmarks and raw material input standards."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Medical Textiles (Quality Control) Order",
+              "description": "Statutory regulatory order: Gazette of India / Medical Textiles (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Medical Equipment"
+            ],
+            "key_specs": [
+              "Hydrostatic",
+              "head",
+              "water",
+              "resistance,"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India / Medical Textiles (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+        "edition_info": {
+          "edition": "Published 2019 (Current Revision)",
+          "publication_year": 2019,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2022,
+              "notes": "Statutory alignment with national quality standards and Medical Textiles (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2025,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Medical Equipment.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Medical Textiles - Surgical Gowns and Surgical Drapes."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 2553 (Part 1):2018",
+          "title": "Safety Glass: Architectural, Building and General Engineering Uses",
+          "category": "Construction Materials",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Published 2018 (Current Revision)",
+          "publication_year": 2018,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2021,
+              "notes": "Statutory alignment with national quality standards and Safety Glass (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2024,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Safety Glass (Quality Control) Order",
+            "regulatory_authority": "Bureau of Indian Standards",
+            "gazette_reference": "Gazette of India / Safety Glass (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Safety Glass (Quality Control) Order. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Safety Glass (Quality Control) Order",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India / Safety Glass (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+          },
+          "primary_standard": {
+            "is_code": "IS 2553 (Part 1):2018",
+            "role": "Primary Code of Practice",
+            "description": "Core manufacturing and specification standard governing Safety Glass: Architectural, Building and General Engineering Uses, outlining material, mechanical, and operational quality requirements."
+          },
+          "scope": "Thermal toughening impact containment, particle break fragmentation count, and laminated glass inter-layer penetration margins.",
+          "products_covered": [
+            "Safety Glass: Architectural, Building and General Engineering Uses"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 2553 (Part 1) (Testing Cl.)",
+                "title": "Laboratory Test Protocols for Safety Glass: Architectural, Building and General Engineering Uses",
+                "description": "Standard sampling procedures, tolerance verification, and precision lab test methods."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 2553 (Part 1) (Safety Cl.)",
+                "title": "Safety & Hazard Prevention Specifications",
+                "description": "Statutory safety thresholds, failure prevention limits, and operational protection parameters."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732 / IS 456 (General Practice)",
+                "title": "Standard Practice for Deployment & Maintenance",
+                "description": "Authorized engineering guidelines for deployment, periodic field inspection, and maintenance."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "BIS Technical Schedule",
+                "title": "Complementary Specifications in Construction Materials",
+                "description": "Harmonized component benchmarks and raw material input standards."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Safety Glass (Quality Control) Order",
+              "description": "Statutory regulatory order: Gazette of India / Safety Glass (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Construction Materials"
+            ],
+            "key_specs": [
+              "Thermal",
+              "toughening",
+              "impact",
+              "containment,"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India / Safety Glass (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+        "edition_info": {
+          "edition": "Published 2018 (Current Revision)",
+          "publication_year": 2018,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2021,
+              "notes": "Statutory alignment with national quality standards and Safety Glass (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2024,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Construction Materials.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Safety Glass: Architectural, Building and General Engineering Uses."
+        ]
+      }
+    ],
+    "timestamp": "2026-10-02"
+  },
+  {
+    "id": 1,
+    "query_snippet": "Procure 500 LED street lights, 90W, 230V AC, IP66, suitable for outdoor road lighting.",
+    "full_text": "Procure 500 LED street lights, 90W, 230V AC, IP66, suitable for outdoor road lighting.",
+    "language": "en",
+    "primary_standard": "IS 16102 (Part 2):2017",
+    "standards_count": 5,
+    "extracted_parameters": {
+      "product": "LED Luminaire Fixture",
+      "category": "Lighting & Electrical Luminaires",
+      "quantity": "500",
+      "power": "90W",
+      "voltage": "230V",
+      "ip_rating": "IP66",
+      "materials": [],
+      "protections_demanded": [
+        "Weather & Ingress Protection"
+      ],
+      "applications": [
+        "Two-Wheeler Road Transit"
+      ]
+    },
+    "audit_report": {
+      "status": "ACTION_REQUIRED",
+      "issues_count": 1,
+      "primary_standard": "IS 16102 (Part 2):2017",
+      "findings": [
+        {
+          "severity": "CRITICAL",
+          "tag": "STATUTORY QCO OMISSION",
+          "title": "Mandatory ISI / QCO Certification Clause Missing",
+          "description": "Governed by Bureau of Energy Efficiency (BEE) / QCO. Uncertified goods cannot be procured on GeM or public portals.",
+          "correction": "Mandate active BIS License (CML Number) and Standard ISI mark on primary packaging."
+        }
+      ]
+    },
+    "recommendations": [
+      {
+        "standard": {
+          "is_code": "IS 16102 (Part 2):2017",
+          "title": "Self-Ballasted LED Lamps for General Lighting: Performance Requirements",
+          "category": "Consumer Lighting",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Published 2017 (Current Revision)",
+          "publication_year": 2017,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2020,
+              "notes": "Statutory alignment with national quality standards and Bureau of Energy Efficiency (BEE) / QCO benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2023,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Bureau of Energy Efficiency (BEE) / QCO",
+            "regulatory_authority": "Bureau of Indian Standards",
+            "gazette_reference": "Gazette of India / Bureau of Energy Efficiency (BEE) / QCO \u2014 Statutory Order under Section 16 BIS Act",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Bureau of Energy Efficiency (BEE) / QCO. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Bureau of Energy Efficiency (BEE) / QCO",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India / Bureau of Energy Efficiency (BEE) / QCO \u2014 Statutory Order under Section 16 BIS Act"
+          },
+          "primary_standard": {
+            "is_code": "IS 16102 (Part 2):2017",
+            "role": "Primary Product Manufacturing Specification",
+            "description": "Core manufacturing and specification standard governing Self-Ballasted LED Lamps for General Lighting: Performance Requirements, outlining material, mechanical, and operational quality requirements."
+          },
+          "scope": "Luminous flux measurement, wattage tolerance, power factor compliance, correlated color temperature (CCT), and lumen maintenance longevity.",
+          "products_covered": [
+            "Self-Ballasted LED Lamps for General Lighting: Performance Requirements"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 16102 (Part 2) (Testing Cl.)",
+                "title": "Laboratory Test Protocols for Self-Ballasted LED Lamps for General Lighting: Performance Requirements",
+                "description": "Standard sampling procedures, tolerance verification, and precision lab test methods."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 16102 (Part 2) (Safety Cl.)",
+                "title": "Safety & Hazard Prevention Specifications",
+                "description": "Statutory safety thresholds, failure prevention limits, and operational protection parameters."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732 / IS 456 (General Practice)",
+                "title": "Standard Practice for Deployment & Maintenance",
+                "description": "Authorized engineering guidelines for deployment, periodic field inspection, and maintenance."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "BIS Technical Schedule",
+                "title": "Complementary Specifications in Consumer Lighting",
+                "description": "Harmonized component benchmarks and raw material input standards."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Bureau of Energy Efficiency (BEE) / QCO",
+              "description": "Statutory regulatory order: Gazette of India / Bureau of Energy Efficiency (BEE) / QCO \u2014 Statutory Order under Section 16 BIS Act"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Consumer Lighting"
+            ],
+            "key_specs": [
+              "Luminous",
+              "flux",
+              "measurement,",
+              "wattage"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India / Bureau of Energy Efficiency (BEE) / QCO \u2014 Statutory Order under Section 16 BIS Act",
+        "edition_info": {
+          "edition": "Published 2017 (Current Revision)",
+          "publication_year": 2017,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2020,
+              "notes": "Statutory alignment with national quality standards and Bureau of Energy Efficiency (BEE) / QCO benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2023,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Consumer Lighting.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Self-Ballasted LED Lamps for General Lighting: Performance Requirements."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 15885 (Part 2/Sec 13):2012",
+          "title": "Safety of Lamp Controlgear: Electronic Controlgear for LED Modules",
+          "category": "Electronics / Lighting",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "First Edition (Edition 1.2)",
+          "publication_year": 2012,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2016,
+              "notes": "Mandates minimum 4 kV line-to-earth surge protection for outdoor luminaire driver circuits."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2021,
+              "notes": "Enforces Total Harmonic Distortion (THD < 10%) compliance under variable electrical load conditions."
+            }
+          ],
+          "certification": {
+            "scheme": "CRS",
+            "compliance_type": "Mandatory CRS (Scheme II)",
+            "scheme_name": "Mandatory CRS (Scheme II)",
+            "mandatory_order": "MeitY Compulsory Registration Scheme",
+            "regulatory_authority": "Ministry of Electronics & IT (MeitY)",
+            "gazette_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under MeitY Compulsory Registration Scheme. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "MeitY Compulsory Registration Scheme",
+            "mandatory": true,
+            "compliance_type": "Mandatory CRS (Scheme II)",
+            "gazette_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)"
+          },
+          "primary_standard": {
+            "is_code": "IS 15885 (Part 2/Sec 13):2012",
+            "role": "Primary Code of Practice",
+            "description": "Manufacturing safety standard for electronic controlgear (LED drivers) powered from AC/DC supplies, ensuring galvanic isolation, surge suppression, thermal protection, and fire containment."
+          },
+          "scope": "Protection against output overvoltage, power-line transients, electrostatic shock, and high-temperature insulation failure for internal and external LED drivers.",
+          "products_covered": [
+            "Safety of Lamp Controlgear: Electronic Controlgear for LED Modules"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 16004 (Part 1)",
+                "title": "Performance of Electronic Controlgear for LED Modules",
+                "description": "Operating voltage range, power conversion efficiency (> 85%), and thermal run endurance."
+              },
+              {
+                "is_code": "IS 15885 (Part 1)",
+                "title": "Lamp Controlgear General & Safety Requirements",
+                "description": "Dielectric withstand test at 2.5 kV AC, creepage distances, and insulation resistance."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 61547:2019",
+                "title": "Equipment for General Lighting - EMC Immunity",
+                "description": "Immunity against lightning surges (4 kV), electrostatic discharge (ESD), and radio-frequency interference."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732:2019",
+                "title": "Code of Practice for Electrical Wiring Installations",
+                "description": "Luminaire grounding, earthing continuity, and neutral isolation norms."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "IS 16102 (Part 1):2012",
+                "title": "Self-Ballasted LED Lamps Safety",
+                "description": "Retrofitted consumer LED lamps powered by internal driver modules."
+              },
+              {
+                "is_code": "IS 10322 (Part 5/Sec 3)",
+                "title": "Luminaires for Road and Street Lighting",
+                "description": "Outdoor luminaire enclosures housing certified IS 15885 drivers."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "MeitY Compulsory Registration Scheme",
+              "description": "Statutory regulatory order: Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Electronics / Lighting"
+            ],
+            "key_specs": [
+              "Protection",
+              "against",
+              "output",
+              "overvoltage,"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (CRS Scheme II)",
+        "compliance_badge_color": "cyan",
+        "source_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)",
+        "edition_info": {
+          "edition": "First Edition (Edition 1.2)",
+          "publication_year": 2012,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2016,
+              "notes": "Mandates minimum 4 kV line-to-earth surge protection for outdoor luminaire driver circuits."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2021,
+              "notes": "Enforces Total Harmonic Distortion (THD < 10%) compliance under variable electrical load conditions."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Electronics / Lighting.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Safety of Lamp Controlgear: Electronic Controlgear for LED Modules."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 16102 (Part 1):2012",
+          "title": "Self-Ballasted LED Lamps for General Lighting: Safety Requirements",
+          "category": "Consumer Lighting",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "First Edition (Edition 1.2)",
+          "publication_year": 2012,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2015,
+              "notes": "Specifies lamp cap temperature rise limit (delta T <= 60K) and insulation resistance testing."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2019,
+              "notes": "Incorporates blue light photobiological eye hazard limits as per IEC 62471."
+            }
+          ],
+          "certification": {
+            "scheme": "CRS",
+            "compliance_type": "Mandatory CRS (Scheme II)",
+            "scheme_name": "Mandatory CRS (Scheme II)",
+            "mandatory_order": "MeitY Compulsory Registration Scheme",
+            "regulatory_authority": "Ministry of Electronics & IT (MeitY)",
+            "gazette_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under MeitY Compulsory Registration Scheme. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "MeitY Compulsory Registration Scheme",
+            "mandatory": true,
+            "compliance_type": "Mandatory CRS (Scheme II)",
+            "gazette_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)"
+          },
+          "primary_standard": {
+            "is_code": "IS 16102 (Part 1):2012",
+            "role": "Primary Product Manufacturing Specification",
+            "description": "Manufacturing standard governing retrofitted self-ballasted consumer LED lamps, specifying cap safety, insulation resistance, electric shock protection, and mechanical strength."
+          },
+          "scope": "Torsion resistance, base contact retention, flame retardance of housings, and electrical insulation for standard retrofitted consumer LED bulbs.",
+          "products_covered": [
+            "Self-Ballasted LED Lamps for General Lighting: Safety Requirements"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 16106:2012",
+                "title": "Photometric & Electrical Measurement of LED Products",
+                "description": "Integrating sphere measurements for total luminous flux, lumen maintenance, and CRI accuracy."
+              },
+              {
+                "is_code": "IS 16102 (Part 2):2017",
+                "title": "LED Lamps Performance Requirements",
+                "description": "Lumen depreciation, power factor (> 0.90), and lifetime operational endurance (>= 25,000 hrs)."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 15885 (Part 1)",
+                "title": "General Safety of Lamp Controlgear",
+                "description": "Protection against electric shock, excessive internal temperatures, and moisture penetration."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732:2019",
+                "title": "Code of Practice for Electrical Wiring Installations",
+                "description": "Indoor lighting circuit distribution, lamp socket wiring, and earthing guidelines."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "IS 15885 (Part 2/Sec 13):2012",
+                "title": "Safety of Lamp Controlgear: Electronic Controlgear for LED Modules",
+                "description": "Dedicated electronic driver specification with galvanic isolation and transient surge suppression."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "MeitY Compulsory Registration Scheme",
+              "description": "Statutory regulatory order: Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Consumer Lighting"
+            ],
+            "key_specs": [
+              "Torsion",
+              "resistance,",
+              "base",
+              "contact"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (CRS Scheme II)",
+        "compliance_badge_color": "cyan",
+        "source_reference": "Gazette of India S.O. 2357(E) / MeitY Compulsory Registration Scheme (CRS)",
+        "edition_info": {
+          "edition": "First Edition (Edition 1.2)",
+          "publication_year": 2012,
+          "reaffirmation_date": "Reaffirmed 2022",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2015,
+              "notes": "Specifies lamp cap temperature rise limit (delta T <= 60K) and insulation resistance testing."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2019,
+              "notes": "Incorporates blue light photobiological eye hazard limits as per IEC 62471."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Consumer Lighting.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Self-Ballasted LED Lamps for General Lighting: Safety Requirements."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 1293:2019",
+          "title": "Plugs and Socket-Outlets for Household and Similar Purposes",
+          "category": "Electrical Consumer",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Published 2019 (Current Revision)",
+          "publication_year": 2019,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2022,
+              "notes": "Statutory alignment with national quality standards and Plugs and Sockets (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2025,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ],
+          "certification": {
+            "scheme": "BIS_ISI",
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "scheme_name": "Mandatory ISI (Scheme I)",
+            "mandatory_order": "Plugs and Sockets (Quality Control) Order",
+            "regulatory_authority": "Bureau of Indian Standards",
+            "gazette_reference": "Gazette of India / Plugs and Sockets (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+            "effective_date": "In Force",
+            "legal_basis": "Mandatory Section 16 BIS Act 2016 Enforcement (Criminal Liability for Non-Compliance)"
+          },
+          "qco_enforced": true,
+          "qco_warning": "Enforced under Plugs and Sockets (Quality Control) Order. Bidders must provide verifiable BIS certification.",
+          "qco_details": {
+            "order_name": "Plugs and Sockets (Quality Control) Order",
+            "mandatory": true,
+            "compliance_type": "Mandatory ISI (Scheme I)",
+            "gazette_reference": "Gazette of India / Plugs and Sockets (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+          },
+          "primary_standard": {
+            "is_code": "IS 1293:2019",
+            "role": "Primary Code of Practice",
+            "description": "Core manufacturing and specification standard governing Plugs and Socket-Outlets for Household and Similar Purposes, outlining material, mechanical, and operational quality requirements."
+          },
+          "scope": "Pin diameters, spacing pitches, earth-pin engagement priority, shutter mechanisms, and endurance testing for 6A and 16A Indian mains fixtures.",
+          "products_covered": [
+            "Plugs and Socket-Outlets for Household and Similar Purposes"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 1293 (Testing Cl.)",
+                "title": "Laboratory Test Protocols for Plugs and Socket-Outlets for Household and Similar Purposes",
+                "description": "Standard sampling procedures, tolerance verification, and precision lab test methods."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 1293 (Safety Cl.)",
+                "title": "Safety & Hazard Prevention Specifications",
+                "description": "Statutory safety thresholds, failure prevention limits, and operational protection parameters."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732 / IS 456 (General Practice)",
+                "title": "Standard Practice for Deployment & Maintenance",
+                "description": "Authorized engineering guidelines for deployment, periodic field inspection, and maintenance."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "BIS Technical Schedule",
+                "title": "Complementary Specifications in Electrical Consumer",
+                "description": "Harmonized component benchmarks and raw material input standards."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Plugs and Sockets (Quality Control) Order",
+              "description": "Statutory regulatory order: Gazette of India / Plugs and Sockets (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Electrical Consumer"
+            ],
+            "key_specs": [
+              "Pin",
+              "diameters,",
+              "spacing",
+              "pitches,"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "MANDATORY STATUTORY COMPLIANCE (ISI Mark Scheme I)",
+        "compliance_badge_color": "error",
+        "source_reference": "Gazette of India / Plugs and Sockets (Quality Control) Order \u2014 Statutory Order under Section 16 BIS Act",
+        "edition_info": {
+          "edition": "Published 2019 (Current Revision)",
+          "publication_year": 2019,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2022,
+              "notes": "Statutory alignment with national quality standards and Plugs and Sockets (Quality Control) Order benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2025,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Electrical Consumer.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Plugs and Socket-Outlets for Household and Similar Purposes."
+        ]
+      },
+      {
+        "standard": {
+          "is_code": "IS 3043:2018",
+          "title": "Code of Practice for Earthing",
+          "category": "Electrical Safety",
+          "status": "Active",
+          "supersedes": null,
+          "edition": "Published 2018 (Current Revision)",
+          "publication_year": 2018,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2021,
+              "notes": "Statutory alignment with national quality standards and Central Electricity Authority (CEA) Regulations benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2024,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ],
+          "certification": {
+            "scheme": "VOLUNTARY",
+            "compliance_type": "Voluntary Code of Practice",
+            "scheme_name": "Voluntary Code of Practice",
+            "mandatory_order": "Central Electricity Authority (CEA) Regulations",
+            "regulatory_authority": "Central Electricity Authority",
+            "gazette_reference": "Bureau of Indian Standards / Central Electricity Authority (CEA) Regulations \u2014 Recommended Code of Practice",
+            "effective_date": "In Force",
+            "legal_basis": "Voluntary / Recommended Code of Practice"
+          },
+          "qco_enforced": false,
+          "qco_warning": null,
+          "qco_details": {
+            "order_name": "Central Electricity Authority (CEA) Regulations",
+            "mandatory": false,
+            "compliance_type": "Voluntary Code of Practice",
+            "gazette_reference": "Bureau of Indian Standards / Central Electricity Authority (CEA) Regulations \u2014 Recommended Code of Practice"
+          },
+          "primary_standard": {
+            "is_code": "IS 3043:2018",
+            "role": "Primary Code of Practice",
+            "description": "Core manufacturing and specification standard governing Code of Practice for Earthing, outlining material, mechanical, and operational quality requirements."
+          },
+          "scope": "Substation ground-grid computation, protective earth pits, step/touch potential containment, and soil-resistivity improvement methods.",
+          "products_covered": [
+            "Code of Practice for Earthing"
+          ],
+          "allied_standards": {
+            "testing": [
+              {
+                "is_code": "IS 3043 (Testing Cl.)",
+                "title": "Laboratory Test Protocols for Code of Practice for Earthing",
+                "description": "Standard sampling procedures, tolerance verification, and precision lab test methods."
+              }
+            ],
+            "safety": [
+              {
+                "is_code": "IS 3043 (Safety Cl.)",
+                "title": "Safety & Hazard Prevention Specifications",
+                "description": "Statutory safety thresholds, failure prevention limits, and operational protection parameters."
+              }
+            ],
+            "installation": [
+              {
+                "is_code": "IS 732 / IS 456 (General Practice)",
+                "title": "Standard Practice for Deployment & Maintenance",
+                "description": "Authorized engineering guidelines for deployment, periodic field inspection, and maintenance."
+              }
+            ],
+            "related_products": [
+              {
+                "is_code": "BIS Technical Schedule",
+                "title": "Complementary Specifications in Electrical Safety",
+                "description": "Harmonized component benchmarks and raw material input standards."
+              }
+            ]
+          },
+          "normative_references": [
+            {
+              "is_code": "Central Electricity Authority (CEA) Regulations",
+              "description": "Statutory regulatory order: Bureau of Indian Standards / Central Electricity Authority (CEA) Regulations \u2014 Recommended Code of Practice"
+            }
+          ],
+          "technical_parameters": {
+            "domain": [
+              "Electrical Safety"
+            ],
+            "key_specs": [
+              "Substation",
+              "ground-grid",
+              "computation,",
+              "protective"
+            ]
+          }
+        },
+        "ai_relevance_score": 38.0,
+        "confidence_level": "Low / Ambiguous",
+        "compliance_type": "VOLUNTARY / RECOMMENDED CODE OF PRACTICE",
+        "compliance_badge_color": "default",
+        "source_reference": "Bureau of Indian Standards / Central Electricity Authority (CEA) Regulations \u2014 Recommended Code of Practice",
+        "edition_info": {
+          "edition": "Published 2018 (Current Revision)",
+          "publication_year": 2018,
+          "reaffirmation_date": "Reaffirmed 2023",
+          "status": "Active",
+          "amendments": [
+            {
+              "amendment_no": "Amd 1",
+              "year": 2021,
+              "notes": "Statutory alignment with national quality standards and Central Electricity Authority (CEA) Regulations benchmarks."
+            },
+            {
+              "amendment_no": "Amd 2",
+              "year": 2024,
+              "notes": "Updated normative testing protocols and safety verification criteria."
+            }
+          ]
+        },
+        "why_recommended": [
+          "\u2713 Domain Match: Directly addresses procurement specifications for Electrical Safety.",
+          "\u2713 Regulatory Scope: Governs technical tolerances and performance benchmarks defined under Code of Practice for Earthing."
+        ]
+      }
+    ],
+    "timestamp": "2026-10-02"
+  }
+]
